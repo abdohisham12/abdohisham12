@@ -1,20 +1,18 @@
-# 👋 Hi, I’m Abdulrahman Hisham
 
-🚀 I’m an Aerospace Engineer at NSST, Beni Suef University, with a deep passion for space science.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abd-elrahman-hisham-3a670a287) 
 
-💡 Currently, I’m expanding my skills in Machine Learning, as I pursue my studies as a Machine Learning Engineer at DEPI.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdohisham12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdohisham12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdohisham12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-💞️ I’m looking to collaborate on projects at the intersection of aerospace and machine learning, especially those focused on space exploration, satellite technology, and data-driven innovations in the aerospace field.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abdohisham12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-📊 **GitHub Stats:**
+---
+[![](https://visitcount.itsvg.in/api?id=abdohisham12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Abdulrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdohisham12&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdohisham12&layout=compact&theme=dark)
-
-📫 Feel free to reach out to me at [abdulrahmanhishamk@gmail.com].
-
-<!---
-abdohisham12/abdohisham12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
