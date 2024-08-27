@@ -1,3 +1,11 @@
+# 👋 Hi, It's Abdulrahman Hisham
+
+🚀 an Aerospace Engineer @ NSST, Beni Suef University, with a deep passion for space science.
+
+💡 Currently, expanding my skills in Machine Learning, as a Machine Learning Engineer @ DEPI.
+
+💞️ looking to collaborate on projects at the intersection of aerospace and machine learning, especially those focused on space exploration, satellite technology, and data-driven innovations in the aerospace field.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abd-elrahman-hisham-3a670a287) 
@@ -15,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abdohisham12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 Feel free to reach out to me at [abdulrahmanhishamk@gmail.com].
