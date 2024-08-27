@@ -2,7 +2,7 @@
 
 🚀 an Aerospace Engineer @ NSST, Beni Suef University, with a deep passion for space science.
 
-💡 Currently, expanding my skills in Machine Learning, as a Machine Learning Engineer @ DEPI.
+💡 Currently, gaining new experience in Machine Learning, as a Machine Learning Engineer @ DEPI.
 
 💞️ looking to collaborate on projects at the intersection of aerospace and machine learning, especially those focused on space exploration, satellite technology, and data-driven innovations in the aerospace field.
 
